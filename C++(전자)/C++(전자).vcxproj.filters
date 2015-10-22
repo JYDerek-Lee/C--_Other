@@ -31,11 +31,5 @@
     <ClCompile Include="code2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="code2 - 복사본.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="code1 - 복사본.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

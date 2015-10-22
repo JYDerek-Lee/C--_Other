@@ -85,11 +85,9 @@
     <ResourceCompile Include="C++(전자).rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="code1 - 복사본.cpp" />
     <ClCompile Include="code1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="code2 - 복사본.cpp" />
     <ClCompile Include="code2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
