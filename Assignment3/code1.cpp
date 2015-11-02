@@ -20,6 +20,8 @@ private:
 	friend class Circle;
 	int px;
 	int py;
+	int number;
+	char de, name;
 };
 
 class Circle {
